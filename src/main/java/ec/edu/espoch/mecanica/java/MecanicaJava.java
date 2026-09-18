@@ -14,7 +14,7 @@ public class MecanicaJava {
          carTwo.stopped();
          
          Person personOne=new Person();
-         personOne.name="Paola";
+         personOne.name="Paola Rpbinson";
          personOne.drive(false);
          
          Person personTwo= new Person();
