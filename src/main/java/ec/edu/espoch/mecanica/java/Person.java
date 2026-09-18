@@ -15,7 +15,7 @@ public class Person {
     }
        public void drive(boolean state){
            if(state==true){
-             System.out.println( name +" , puedes manejar");
+             System.out.println( name +" , puedes manejar el carro");
          }else{
              System.out.println( name +" enciende el carro");
          }
